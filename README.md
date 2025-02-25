@@ -22,7 +22,7 @@ This project includes 8 python scripts that demonstrate how to interact with a G
 - The screen shows the options for `Employee`, `Supplier`, `Category`, `inventory, 'billing',  and "Sales" to perform CRUD operations.
 - This screen also updates timely as you perform operations on any of these Labels.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ### 2. employee.py
 - This screen collects and shows the complete data regarding an `employee`.
